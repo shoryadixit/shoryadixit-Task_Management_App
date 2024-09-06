@@ -76,7 +76,7 @@ This project is a full-stack task management application built with the MERN sta
    Create a `.env.local` file in the `frontend` directory and add the following:
 
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:3000
+   NEXT_PUBLIC_API_URL=http://localhost:YOUR_DEV_PORT
    ```
 
 4. **Start the Frontend Development Server**
