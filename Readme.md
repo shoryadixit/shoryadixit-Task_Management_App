@@ -36,8 +36,8 @@ This project is a full-stack task management application built with the MERN sta
 1. **Clone the Repository**
 
    ```bash
-   git clone [<repository-url>](https://github.com/shoryadixit/shoryadixit-Task_Management_App.git)
-   cd [<repository-directory>](backend)
+   git clone https://github.com/shoryadixit/shoryadixit-Task_Management_App.git
+   cd backend
    ```
 
 2. **Install Dependencies**
